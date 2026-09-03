@@ -98,9 +98,4 @@ I'm looking for opportunities to gain practical experience, contribute to real-w
 
 ⭐ Thanks for visiting my profile!
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linamellese\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linamellese\&layout=compact\&theme=default)
 
