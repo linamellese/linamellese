@@ -93,9 +93,8 @@ I'm looking for opportunities to gain practical experience, contribute to real-w
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: Coming soon
-- 💼 LinkedIn: Coming soon
-- 📧 Email: Coming soon
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariya-undefined-a302a3433/)
+- 📧 [Email](mailto:linamariya1619@gmail.com)
 
 ⭐ Thanks for visiting my profile!
 
