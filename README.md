@@ -60,10 +60,12 @@ A full-stack task management platform inspired by modern project management tool
 
 **Tech:** React • Node.js • Express.js • MySQL
 
-### 💰 ShopEasy
-A simple application designed to make everyday financial and payment-related tasks easier and more convenient.
+### 🛒 ShopEasy
+
+A full-stack e-commerce platform for browsing products, managing a shopping cart, and completing online purchases.
 
 **Tech:** React • Node.js • Express.js • MySQL
+
 
 ## 📚 Currently Learning
 
@@ -74,7 +76,7 @@ A simple application designed to make everyday financial and payment-related tas
 - Full-stack web development
 - Software engineering best practices
 
-  ## 🎯 Career Goal
+## 🎯 Career Goal
 
 I'm looking for opportunities to gain practical experience, contribute to real-world software projects, and grow as a professional software engineer.
 
@@ -84,6 +86,5 @@ I'm looking for opportunities to gain practical experience, contribute to real-w
 - 💼 LinkedIn: Coming soon
 - 📧 Email: Coming soon
 
-  ---
 
 ⭐ Thanks for visiting my profile!
