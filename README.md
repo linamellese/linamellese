@@ -35,32 +35,37 @@ I enjoy turning ideas into functional applications and working across frontend, 
 
 ## 🚀 Featured Projects
 
-### 💼 Job Application Platform
+### 💼 [Job Application Platform](https://github.com/linamellese/job-application-platform)
+
 A full-stack web application for discovering jobs, submitting applications, and managing the job application process.
 
 **Tech:** React • Node.js • Express.js • MySQL
 
-### 🏨 Hotel Booking System
+### 🏨 [Hotel Booking System](https://github.com/linamellese/Hotel-Booking-System)
+
 A hotel booking and management system designed to manage rooms, reservations, and hotel operations.
 
 **Tech:** React • Node.js • Express.js • MySQL
 
-### 🌤️ WeatherNow
+### 🌤️ [WeatherNow](https://github.com/linamellese/WeatherNowApp)
+
 A responsive weather application that provides weather information using a weather API.
 
 **Tech:** React • JavaScript • REST API
 
-### 🎓 Student Project Showcase
+### 🎓 [Student Project Showcase](https://github.com/linamellese/student-showcase-board)
+
 A platform where students can showcase, discover, and manage software engineering projects.
 
 **Tech:** React • Node.js • Express.js • MySQL
 
-### 📋 TaskFlow
+### 📋 [TaskFlow](https://github.com/linamellese/TaskFlow)
+
 A full-stack task management platform inspired by modern project management tools, designed to help users organize projects, tasks, priorities, and workflow efficiently.
 
 **Tech:** React • Node.js • Express.js • MySQL
 
-### 🛒 ShopEasy
+### 🛒 [ShopEasy](https://github.com/linamellese/ShopEasy)
 
 A full-stack e-commerce platform for browsing products, managing a shopping cart, and completing online purchases.
 
